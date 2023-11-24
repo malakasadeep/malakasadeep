@@ -8,6 +8,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=malakasadeep&label=Profile%20views&color=0e75b6&style=flat" alt="malakasadeep" /> </p>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🔭 I’m currently working on **ITP Project**
 
 - 🌱 I’m currently learning **Android Application Development in Kotlin**
@@ -17,6 +19,7 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **p.g.m.sadeep2001@gmail.com**
+
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
