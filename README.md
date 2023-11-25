@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width = "100%">
 </picture>
 <div align="center">
-<img  width="20%"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
+<img  width="15%"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
 
 <h1 align="center">Hi 👋, I'm Malaka Sadeep</h1>
 <h3 align="center">A passionate IT undergraduate at SLIIT</h3>
