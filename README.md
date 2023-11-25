@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width = "100%">
 </picture>
 <div align="center">
-<img  width="25%"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
+<img  width="20%"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
 
 <h1 align="center">Hi 👋, I'm Malaka Sadeep</h1>
 <h3 align="center">A passionate IT undergraduate at SLIIT</h3>
@@ -44,7 +44,7 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-|  <img width="450em" src="https://github-profile-trophy.vercel.app/?username=vikashpr&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=malakasadeep&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Vikash's Most used lang" /> |
+|  <img width="450em" src="https://github-profile-trophy.vercel.app/?username=malakasadeep&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=malakasadeep&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Vikash's Most used lang" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=malakasadeep&theme=vue-dark" alt="Vikash2806 Streak" />                                           |  <img width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=malakasadeep&show_icons=true&count_private=true&theme=vue-dark" />   |
 
