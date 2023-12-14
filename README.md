@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **ITP Project**
 
-- 🌱 I’m currently learning **Android Application Development in Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **MERN Stack**
 
 - 👨‍💻 I am undergraduate at SLIIT
 
