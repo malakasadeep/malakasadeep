@@ -44,7 +44,7 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-|  <img width="450em" src="https://github-profile-trophy.vercel.app/?username=malakasadeep&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/malakasadeep/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakasadeep&theme=tokyonight" alt="Malaka's Most used lang" /> |
+|  <img width="450em" src="https://github-profile-trophy.vercel.app/?username=malakasadeep&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/malakasadeep/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=malakasadeep&show_icons=true&locale=en&layout=compact" alt="Malaka's Most used lang" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=malakasadeep&theme=vue-dark" alt="Vikash2806 Streak" />                                           |  <img width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=malakasadeep&show_icons=true&count_private=true&theme=vue-dark" />   |
 
