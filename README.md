@@ -46,7 +46,7 @@
 
 |  <img width="450em" src="https://github-profile-trophy.vercel.app/?username=malakasadeep&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/malakasadeep/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=malakasadeep&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Malaka's Most used lang" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=malakasadeep&theme=vue-dark" alt="Vikash2806 Streak" />                                           |  <img width="450em" align="center" alt=" Github stats"  src="https://github-readme-stats.vercel.app/api?username=malakasadeep&show_icons=true&count_private=true&theme=vue-dark" />   |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=malakasadeep&theme=vue-dark" alt="Malaka's Streak" />                                           |  <img width="450em" align="center" alt=" Github stats"  src="https://github-readme-stats.vercel.app/api?username=malakasadeep&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 
 <!--START_SECTION:waka-->
