@@ -7,16 +7,12 @@
 
 <!-- ╭───────────────────────── HEADER BANNER ─────────────────────────╮ -->
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,50:A855F7,100:22D3EE&height=200&section=header&text=Malaka%20Sadeep&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20%26%20Agentic%20Systems&descAlignY=62&descSize=18&animation=fadeIn"
-    alt="Malaka Sadeep banner"
-  />
+  <img width="100%" src="assets/header.svg" alt="Malaka Sadeep — Software Engineer, Full-Stack, AI & Agentic Systems"/>
 </div>
 
 <!-- ╭───────────────────────── TYPING TAGLINE ────────────────────────╮ -->
 <div align="center">
-  <a href="https://sadeeppgm.live">
+  <a href="https://sadeepm.me">
     <img
       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=46&lines=Building+software+that+quietly+works.;Full-Stack+Engineer+%E2%97%87+React%2C+Next.js%2C+Node;AI+Agents+%E2%97%87+LangGraph+%E2%80%A2+RAG+%E2%80%A2+ChromaDB+%E2%80%A2+MCP;Turning+complex+ideas+into+products+people+use."
       alt="Typing tagline"
@@ -26,7 +22,7 @@
 
 <!-- ╭───────────────────────── STATUS BADGES ─────────────────────────╮ -->
 <div align="center">
-  <a href="https://sadeeppgm.live"><img src="https://img.shields.io/badge/Portfolio-sadeeppgm.live-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://sadeepm.me"><img src="https://img.shields.io/badge/Portfolio-sadeepm.me-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/sadeeppgm"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:p.g.m.sadeep2001@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to work"/>
@@ -64,7 +60,7 @@ const malaka: SoftwareEngineer = {
 - 🌱 &nbsp;Going deeper on **LangGraph · RAG · MCP · vector search**
 - 💼 &nbsp;Ex **Software Engineer Intern @ Irusri Pvt Ltd** — 8 months delivering for Swedish & Nordic clients
 - 💬 &nbsp;Ask me about **Next.js, Flutter, Node, AI agents & clean architecture**
-- ⚡ &nbsp;Fun fact: my portfolio is a fully bootable **macOS desktop** → [sadeeppgm.live](https://sadeeppgm.live)
+- ⚡ &nbsp;Fun fact: my portfolio is a fully bootable **macOS desktop** → [sadeepm.me](https://sadeepm.me)
 
 <br/>
 
@@ -231,7 +227,7 @@ const malaka: SoftwareEngineer = {
 </table>
 
 <div align="center">
-  <a href="https://sadeeppgm.live">
+  <a href="https://sadeepm.me">
     <img src="https://img.shields.io/badge/Explore%20the%20full%20interactive%20portfolio%20%E2%86%92-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -269,7 +265,7 @@ const malaka: SoftwareEngineer = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;`◇ let's connect`
 
 <div align="center">
-  <a href="https://sadeeppgm.live"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://sadeepm.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/sadeeppgm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:p.g.m.sadeep2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/malakasadeep"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -283,8 +279,4 @@ const malaka: SoftwareEngineer = {
 </div>
 
 <!-- ╭──────────────────────── FOOTER BANNER ──────────────────────────╮ -->
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=soft&color=0:22D3EE,50:A855F7,100:6366F1&height=120&section=footer"
-  alt="footer"
-/>
+<img width="100%" src="assets/footer.svg" alt="footer"/>
