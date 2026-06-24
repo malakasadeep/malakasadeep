@@ -1,0 +1,25 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="decorative animated wave footer">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- gradient band sits below the waves -->
+  <rect y="40" width="1200" height="80" fill="url(#fbg)"/>
+
+  <!-- animated layered waves (seamless: tile period = 600, translate -600) -->
+  <g fill="url(#fbg)">
+    <path fill-opacity="0.45" d="M0,45 C100,31 200,31 300,45 C400,59 500,59 600,45 C700,31 800,31 900,45 C1000,59 1100,59 1200,45 C1300,31 1400,31 1500,45 C1600,59 1700,59 1800,45 C1900,31 2000,31 2100,45 C2200,59 2300,59 2400,45 L2400,120 L0,120 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path fill-opacity="0.65" d="M0,38 C100,20 200,20 300,38 C400,56 500,56 600,38 C700,20 800,20 900,38 C1000,56 1100,56 1200,38 C1300,20 1400,20 1500,38 C1600,56 1700,56 1800,38 C1900,20 2000,20 2100,38 C2200,56 2300,56 2400,38 L2400,120 L0,120 Z">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="6.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0,55 C100,45 200,45 300,55 C400,65 500,65 600,55 C700,45 800,45 900,55 C1000,65 1100,65 1200,55 C1300,45 1400,45 1500,55 C1600,65 1700,65 1800,55 C1900,45 2000,45 2100,55 C2200,65 2300,65 2400,55 L2400,120 L0,120 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

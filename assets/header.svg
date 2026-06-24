@@ -1,0 +1,74 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Malaka Sadeep — Software Engineer, Full-Stack, AI &amp; Agentic Systems">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <rect width="1200" height="220" fill="url(#sheen)"/>
+
+  <!-- floating particles -->
+  <g fill="#ffffff">
+    <circle cx="140" cy="56" r="2.5" opacity="0.6">
+      <animate attributeName="cy" values="56;38;56" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.15;0.6" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="48" r="3" opacity="0.5">
+      <animate attributeName="cy" values="48;70;48" dur="7.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.15;0.5" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="40" r="2" opacity="0.5">
+      <animate attributeName="cy" values="40;58;40" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="70" r="2.2" opacity="0.55">
+      <animate attributeName="cy" values="70;50;70" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;0.15;0.55" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="34" r="1.8" opacity="0.45">
+      <animate attributeName="cy" values="34;52;34" dur="6.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.45;0.1;0.45" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1150" cy="80" r="2" opacity="0.5">
+      <animate attributeName="cy" values="80;62;80" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.12;0.5" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- animated layered waves (seamless: each tile period = 600, translate -600) -->
+  <g>
+    <path fill="#ffffff" fill-opacity="0.10" d="M0,170 C100,152 200,152 300,170 C400,188 500,188 600,170 C700,152 800,152 900,170 C1000,188 1100,188 1200,170 C1300,152 1400,152 1500,170 C1600,188 1700,188 1800,170 C1900,152 2000,152 2100,170 C2200,188 2300,188 2400,170 L2400,240 L0,240 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#ffffff" fill-opacity="0.14" d="M0,180 C100,158 200,158 300,180 C400,202 500,202 600,180 C700,158 800,158 900,180 C1000,202 1100,202 1200,180 C1300,158 1400,158 1500,180 C1600,202 1700,202 1800,180 C1900,158 2000,158 2100,180 C2200,202 2300,202 2400,180 L2400,240 L0,240 Z">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#ffffff" fill-opacity="0.20" d="M0,192 C100,180 200,180 300,192 C400,204 500,204 600,192 C700,180 800,180 900,192 C1000,204 1100,204 1200,192 C1300,180 1400,180 1500,192 C1600,204 1700,204 1800,192 C1900,180 2000,180 2100,192 C2200,204 2300,204 2400,192 L2400,240 L0,240 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- title + subtitle -->
+  <g text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, system-ui, -apple-system, sans-serif">
+    <text x="600" y="100" font-size="56" font-weight="800" letter-spacing="1.5" fill="#ffffff" filter="url(#glow)" opacity="0">
+      Malaka Sadeep
+      <animate attributeName="opacity" values="0;1" dur="1.1s" begin="0.15s" fill="freeze"/>
+    </text>
+    <text x="600" y="142" font-size="20" font-weight="500" letter-spacing="0.5" fill="#EDE9FE" opacity="0">
+      &#9671;&#160; Software Engineer &#183; Full-Stack &#183; AI &amp; Agentic Systems
+      <animate attributeName="opacity" values="0;0.95" dur="1.1s" begin="0.55s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
