@@ -116,7 +116,7 @@ const malaka: SoftwareEngineer = {
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakasadeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=10" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=malakasadeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8&hide_progress=true&cache_seconds=86400" alt="Top languages"/>
 </div>
 
 <div align="center">
@@ -124,7 +124,7 @@ const malaka: SoftwareEngineer = {
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=malakasadeep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,MultiLanguage" alt="Trophies"/>
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=malakasadeep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 </div>
 
 <br/>
